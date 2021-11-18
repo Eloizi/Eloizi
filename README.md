@@ -3,7 +3,7 @@
 - 🇧🇷 Brasileira;
 - 🏡 Assis-SP;
 - 🌱 Estudando Java/Phyton;
-- 💬 Concluído Ensino Médio com Técnino em Informática e atualmente cursando graduação em Ciências da Computação (EAD);
+- 💬 Concluído Ensino Médio com Técnico em Informática e atualmente cursando graduação em Ciências da Computação (EAD);
 - 📫 Contate-me no email: eloizinogueira@gmail.com;
 
 
