@@ -2,9 +2,10 @@
 
 - 🇧🇷 Brasileira;
 - 🏡 Assis-SP;
-- 🌱 Estudando Java/Phyton;
+- 🌱 Estudando Java;
 - 💬 Concluído Ensino Médio integrado ao Técnico em Informática na ETEC Pedro D'Arcadia Neto;
 - 🎓 Atualmente cursando graduação em Ciências da Computação na UNIP-Universidade Paulista;
+- 📚 E atualmente cursando Técnico em Análise e Desenvolvimento de Sistemas na Etec Pedro D'Arcadia Neto;
 - 📫 Contate-me no email: eloizinogueira@gmail.com;
 
 
