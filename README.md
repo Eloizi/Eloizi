@@ -5,7 +5,7 @@
 - 🌱 Estudando JavaScript;
 - 💬 Concluído Ensino Médio integrado ao Técnico em Informática na ETEC Pedro D'Arcadia Neto;
 - 🎓 Atualmente cursando graduação em Ciências da Computação na UNIP-Universidade Paulista, 3º ano;
-- 📚 E atualmente cursando Técnico em Análise e Desenvolvimento de Sistemas na Etec Pedro D'Arcadia Neto, Assis-SP;
+- 📚 E atualmente cursando Técnico em Desenvolvimento de Sistemas na Etec Pedro D'Arcadia Neto, Assis-SP;
 - 📫 Contate-me no email: eloizinogueira@gmail.com;
 
 
