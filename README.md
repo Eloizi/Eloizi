@@ -71,9 +71,11 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/eloizi/eloizi/output/snake.svg" alt="snake animation">
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/eloizi/eloizi/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/eloizi/eloizi/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
