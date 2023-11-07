@@ -72,9 +72,9 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 <br clear="both">
 
 
-![snake animation](https://github.com/eloizi/eloizi/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Eloizi/Eloizi/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/eloizi/eloizi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Eloizi/Eloizi/output/snake.svg" alt="Snake animation" />
 
 ###
 
