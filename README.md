@@ -4,7 +4,7 @@
 ## 💡 Sobre mim :
  - *Me chamo Eloizi e sou do interior de São Paulo* 
 
- - *Graduanda do curso de Ciência da Computação na Universidade Paulista - atualmente no 6º Semestre* 🎓 
+ - *Graduanda do curso de Ciência da Computação na Universidade Paulista - atualmente no 7º Semestre* 🎓 
   
  - *Técnica em Desenvolvimento de Sistemas pela ETEC - Assis, SP* 💻 
    
